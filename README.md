@@ -1,4 +1,5 @@
-inicial
-=======
+## Data Science Specialization
 
-rep para curso datatoolbox
+* Uses R
+* Nine courses
+* Goes from raw data to data products
